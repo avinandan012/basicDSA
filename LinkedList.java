@@ -3,7 +3,7 @@ public class LinkedList{
 
   protected Node start;
   protected Node end;
-  protected int size;
+  public int size;
 
 //constructors
 public LinkedList(){
@@ -16,5 +16,15 @@ public boolean isEmpty()
 {
   return size==0;
 }
+
+public int getSize(){}
+public void insertAtStart(int val){
+  Node insertNode = new Node(11);
+  size++;
+  
+}
+public void insertAtEnd(int val){}
+public void insertAtPosition(int val,int position){}
+
 
 }
