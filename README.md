@@ -1,2 +1,2 @@
 # basicDSA
-writing the basic data structures in java
+Writing the basic data structures in java.
