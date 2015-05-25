@@ -1,0 +1,1 @@
+Modify "Node.java" to use generic type so that it can create <any> type of Node.
