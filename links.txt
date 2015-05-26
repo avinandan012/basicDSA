@@ -1,0 +1,39 @@
+Sorting : http://www.sorting-algorithms.com/
+
+Time/Space complexity : graphs for (n) / (nlog(n)) / (n2) / (2n)
+External sorting vs Internal sorting
+Effects of multithreading on a sorting algorithm
+Effects of distributed computing on a sorting algorithm
+Popular data structures : 
+1.	Array
+2.	Dictionary
+3.	Map
+4.	Queue
+5.	List http://www.sanfoundry.com/java-program-implement-singly-linked-list/
+6.	Set
+7.	Tree
+8.	Graph
+9.	Stack
+10.	String
+11.	Binary Tree
+12.	B-tree
+13.	Heap
+14.	Trie
+
+Design snake-ladder game : http://www.geeksforgeeks.org/flipkart-interview-experience-set-25/
+http://www.geeksforgeeks.org/amazon-interview-experience-set-188-for-sde1/
+Write a LRU cache -  soln: use doubly linked list
+http://www.programcreek.com/2013/03/leetcode-lru-cache-java/
+
+String related problemset : http://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/
+
+http://www.geeksforgeeks.org/tag/dynamic-programming/
+
+
+
+Read about : Map.Entry
+http://www.java2novice.com/
+convert Array to Arraylist 
+ArrayList to Array
+http://www.programcreek.com/2013/03/leetcode-lru-cache-java/
+http://www.studyalgorithms.com/codes/stringOfnBits.c
