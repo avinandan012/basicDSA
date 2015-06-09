@@ -9,7 +9,7 @@ public class LinkedList{
 public LinkedList(){
   start = null;
   end = null;
-  size =0;
+  size = 0;
 }
 
 public boolean isEmpty()
@@ -17,14 +17,20 @@ public boolean isEmpty()
   return size==0;
 }
 
-public int getSize(){}
+public int getSize(){
+  return size;
+}
 public void insertAtStart(int val){
   Node insertNode = new Node(11);
   size++;
   
 }
-public void insertAtEnd(int val){}
-public void insertAtPosition(int val,int position){}
+public void insertAtEnd(int val){
+  
+}
+public void insertAtPosition(int val,int position){
+  
+}
 
 
 }
