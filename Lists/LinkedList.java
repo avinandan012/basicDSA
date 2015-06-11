@@ -12,7 +12,7 @@ public LinkedList(){
   size = 0;
 }
 
-public boolean isEmpty()
+public boolean isEmpty()//check for empty list
 {
   return size==0;
 }
@@ -20,6 +20,7 @@ public boolean isEmpty()
 public int getSize(){
   return size;
 }
+
 public void insertAtStart(int val){
   Node insertNode = new Node(11);
   size++;
